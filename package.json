@@ -1,0 +1,14 @@
+{
+  "name": "jotai-docs-types",
+  "version": "1.0.0",
+  "description": "A minimal repo to showcase some errors in Jotai docs",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "jotai": "2.3.1",
+    "react": "18.2.0"
+  },
+  "devDependencies": {
+    "typescript": "5.1.6"
+  }
+}
